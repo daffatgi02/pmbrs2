@@ -1,0 +1,10 @@
+{
+    "prambors": {
+        "name" : "prambors radio",
+        "url" : "http://masima.rastream.com/masima-pramborsjakarta?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Amasima-pramborsjakarta&playerid=Prambors_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1MDQ0OTAxMDksImV4cCI6MTUwNDU3NjUwOX0.4g5vvBeEaUEzqPot0LHkzbpPdolWKdKH6HQM4owTHeM&lan=%5B%22en%22%5D&setLanguage=true"
+    },
+    "sample": {
+        "name" : "Sample Audio File",
+        "url" : "sample.mp3"
+    }
+}
